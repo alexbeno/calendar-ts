@@ -1,0 +1,97 @@
+.fc {
+    height: calc(100vh - 63px - 63px - 24px - 24px);
+    font-family: sans-serif;
+}
+
+.fc .fc-button-primary {
+    background: #89d1fa;
+    box-shadow: 0px 5px 14px rgba(1, 181, 226, 0.15);
+    border-radius: 20px;
+    border: none;
+    padding: 10px 27px;
+    font-weight: 600;
+    color: white;
+    border: none;
+    transition: all ease 0.3s;
+}
+
+.fc .fc-button-primary:hover {
+    background: #EDF8FE;
+    color: #031442;
+    transition: all ease 0.3s;
+}
+
+.fc .fc-button-group > .fc-button {
+    border-radius: 100% !important;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+    background: #89D1FA;
+}
+
+.fc .fc-toolbar-title {
+    font-weight: bold;
+    color: #031442;
+}
+
+.fc-theme-standard td, .fc-theme-standard th {
+    border: 1px solid #EDEDED;
+}
+
+.fc-scrollgrid-sync-inner {
+    padding: 15px;
+    background-color: #f7f8fc;
+}
+
+.fc .fc-timegrid-axis-cushion, .fc .fc-timegrid-slot-label-cushion,
+.fc-col-header-cell-cushion  {
+    color: #031442;
+    font-weight: 600;
+}
+
+.fc .fc-timegrid-slot-label {
+    height: 40px;
+}
+
+.fc-v-event .fc-event-title-container {
+    display: none;
+}
+
+.fc .fc-scrollgrid-section > td,
+.fc .fc-scrollgrid-section-liquid > td,
+.fc .fc-scrollgrid-liquid {
+    border: none;
+}
+
+.fc .fc-view-harness {
+    background-color: white;
+}
+.fc .fc-bg-event {
+    background-color: #F5F5F5;
+    opacity: 1;
+}
+
+.fc-v-event {
+    background-color: #89D1FA;
+    border: 0;
+
+}
+
+.fc-v-event .fc-event-main-frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fc-event-time {
+    color: #3E88BA;
+    font-weight: 600;
+}
+
+.fc .fc-daygrid-day.fc-day-today,
+.fc .fc-timegrid-col.fc-day-today {
+    background-color: white;
+}

@@ -1,0 +1,21 @@
+{
+    "color": {
+        "cyan": "#01B5E2"
+    },
+
+    "breakpoint": {
+        "custom1": "1300px"
+    },
+
+    "font" : {
+        "primary": "'Inter', sans-serif;"
+    },
+
+    "ease" : {
+        "ease": "ease-out"
+    },
+
+    "grid" : {
+ 
+    }
+}

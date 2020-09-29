@@ -1,0 +1,8 @@
+- [X] : Champs select avec les ID des biens
+- [X] : bouton pour switch les event en background et visite
+- [X] : créer le system de visite
+- [X] : Hover empty event
+- [X] : style
+- [X] : Clean project
+- [ ] : MEL
+- [ ] : GIT
